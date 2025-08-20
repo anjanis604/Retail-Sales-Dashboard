@@ -1,0 +1,201 @@
+OrderID,OrderDate,Category,Subcategory,Sales,Profit
+ORD0,2024-04-12,Furniture,Tables,4271,-68
+ORD1,2024-12-14,Office Supplies,Paper,4460,596
+ORD2,2024-09-27,Electronics,Phones,2602,699
+ORD3,2024-04-16,Grocery,Dairy,1919,-63
+ORD4,2024-03-12,Electronics,Laptops,817,-17
+ORD5,2024-07-07,Electronics,Phones,2882,1224
+ORD6,2024-01-21,Office Supplies,Writing,3677,1153
+ORD7,2024-04-12,Electronics,Phones,243,584
+ORD8,2024-05-01,Furniture,Tables,3240,1331
+ORD9,2024-08-02,Furniture,Chairs,4591,783
+ORD10,2024-11-26,Clothing,Womens,3038,-132
+ORD11,2024-03-28,Grocery,Snacks,3736,345
+ORD12,2024-04-09,Electronics,Phones,3322,-148
+ORD13,2024-12-25,Electronics,Phones,1267,1273
+ORD14,2024-05-31,Office Supplies,Writing,2716,4
+ORD15,2024-05-10,Furniture,Chairs,1162,-75
+ORD16,2024-05-29,Grocery,Snacks,2256,-158
+ORD17,2024-11-04,Clothing,Womens,3082,-90
+ORD18,2024-09-14,Furniture,Tables,3394,560
+ORD19,2024-12-09,Clothing,Mens,4829,1486
+ORD20,2024-10-20,Office Supplies,Paper,1256,1006
+ORD21,2024-07-10,Office Supplies,Writing,832,647
+ORD22,2024-10-03,Electronics,Laptops,4430,-106
+ORD23,2024-06-09,Grocery,Dairy,4946,1197
+ORD24,2024-11-09,Clothing,Womens,1053,1343
+ORD25,2024-01-22,Furniture,Tables,2639,699
+ORD26,2024-09-09,Office Supplies,Paper,3424,159
+ORD27,2024-08-23,Electronics,Laptops,3401,699
+ORD28,2024-12-10,Electronics,Phones,1642,80
+ORD29,2024-02-18,Clothing,Mens,1291,1018
+ORD30,2024-02-28,Office Supplies,Paper,3093,1018
+ORD31,2024-06-18,Grocery,Dairy,2781,466
+ORD32,2024-07-06,Office Supplies,Paper,1317,-108
+ORD33,2024-09-27,Clothing,Mens,1640,471
+ORD34,2024-07-08,Clothing,Womens,3336,-140
+ORD35,2024-06-23,Office Supplies,Paper,2486,433
+ORD36,2024-02-20,Clothing,Mens,3819,874
+ORD37,2024-12-29,Office Supplies,Writing,1488,1226
+ORD38,2024-02-24,Furniture,Chairs,1956,828
+ORD39,2024-08-31,Office Supplies,Paper,1465,1289
+ORD40,2024-11-15,Office Supplies,Paper,599,403
+ORD41,2024-05-10,Clothing,Womens,1780,481
+ORD42,2024-11-02,Clothing,Womens,610,333
+ORD43,2024-05-14,Electronics,Laptops,4412,1228
+ORD44,2024-01-21,Electronics,Phones,1424,637
+ORD45,2024-11-24,Furniture,Chairs,1255,1336
+ORD46,2024-06-15,Electronics,Laptops,1927,444
+ORD47,2024-09-30,Office Supplies,Paper,3241,32
+ORD48,2024-03-29,Clothing,Mens,3586,323
+ORD49,2024-11-11,Electronics,Laptops,1910,145
+ORD50,2024-01-14,Electronics,Laptops,3023,869
+ORD51,2024-08-29,Furniture,Chairs,2314,345
+ORD52,2024-09-21,Furniture,Chairs,4286,901
+ORD53,2024-12-11,Office Supplies,Paper,813,896
+ORD54,2024-02-22,Clothing,Womens,3702,593
+ORD55,2024-12-05,Furniture,Tables,4234,48
+ORD56,2024-04-01,Electronics,Laptops,3622,-154
+ORD57,2024-09-20,Clothing,Womens,4368,944
+ORD58,2024-02-04,Clothing,Mens,4848,13
+ORD59,2024-07-24,Electronics,Laptops,4949,38
+ORD60,2024-03-21,Furniture,Tables,1343,879
+ORD61,2024-02-19,Electronics,Laptops,3809,149
+ORD62,2024-12-25,Clothing,Womens,1181,-94
+ORD63,2024-01-02,Grocery,Dairy,555,630
+ORD64,2024-02-23,Grocery,Snacks,994,-153
+ORD65,2024-04-15,Office Supplies,Paper,1484,1396
+ORD66,2024-09-16,Electronics,Laptops,2058,136
+ORD67,2024-11-05,Electronics,Phones,3172,849
+ORD68,2024-07-09,Office Supplies,Writing,2096,603
+ORD69,2024-08-05,Office Supplies,Writing,4385,1080
+ORD70,2024-02-13,Office Supplies,Paper,604,-193
+ORD71,2024-06-10,Clothing,Mens,1314,424
+ORD72,2024-07-20,Electronics,Laptops,1631,1076
+ORD73,2024-09-26,Clothing,Womens,3540,518
+ORD74,2024-12-16,Office Supplies,Writing,923,102
+ORD75,2024-10-30,Electronics,Phones,1028,438
+ORD76,2024-09-27,Clothing,Womens,233,-145
+ORD77,2024-08-02,Clothing,Womens,2205,525
+ORD78,2024-09-08,Office Supplies,Writing,3727,325
+ORD79,2024-07-08,Electronics,Phones,4880,273
+ORD80,2024-10-22,Office Supplies,Writing,1952,-173
+ORD81,2024-07-31,Electronics,Laptops,4275,-123
+ORD82,2024-07-26,Grocery,Snacks,3033,1039
+ORD83,2024-08-24,Furniture,Tables,3384,1209
+ORD84,2024-12-03,Furniture,Tables,4398,164
+ORD85,2024-02-22,Furniture,Chairs,2911,465
+ORD86,2024-10-06,Office Supplies,Writing,1350,325
+ORD87,2024-08-04,Grocery,Snacks,3612,498
+ORD88,2024-09-08,Electronics,Phones,1356,1135
+ORD89,2024-07-06,Clothing,Womens,3476,682
+ORD90,2024-02-10,Electronics,Laptops,3586,830
+ORD91,2024-06-05,Clothing,Womens,3684,826
+ORD92,2024-01-15,Electronics,Laptops,1496,1446
+ORD93,2024-10-27,Grocery,Snacks,3737,718
+ORD94,2024-03-05,Clothing,Womens,3430,549
+ORD95,2024-12-10,Office Supplies,Paper,2803,162
+ORD96,2024-11-22,Electronics,Laptops,570,1331
+ORD97,2024-01-09,Electronics,Laptops,1453,1097
+ORD98,2024-12-09,Clothing,Womens,2883,1329
+ORD99,2024-05-08,Office Supplies,Paper,2931,605
+ORD100,2024-05-15,Office Supplies,Writing,457,538
+ORD101,2024-03-03,Grocery,Dairy,3119,838
+ORD102,2024-05-18,Office Supplies,Writing,767,1015
+ORD103,2024-03-21,Office Supplies,Writing,4568,1454
+ORD104,2024-06-11,Office Supplies,Paper,1245,284
+ORD105,2024-10-15,Furniture,Tables,4285,-173
+ORD106,2024-09-17,Grocery,Snacks,3819,513
+ORD107,2024-08-18,Electronics,Phones,2845,862
+ORD108,2024-02-10,Clothing,Mens,639,1096
+ORD109,2024-01-28,Electronics,Phones,2879,1054
+ORD110,2024-05-14,Grocery,Snacks,4236,-115
+ORD111,2024-07-19,Clothing,Mens,4935,1297
+ORD112,2024-11-23,Grocery,Dairy,3875,-75
+ORD113,2024-09-24,Office Supplies,Paper,2608,611
+ORD114,2024-02-02,Clothing,Mens,2879,336
+ORD115,2024-02-17,Office Supplies,Paper,1024,-56
+ORD116,2024-03-02,Electronics,Laptops,3056,1348
+ORD117,2024-08-03,Electronics,Laptops,1681,1035
+ORD118,2024-10-19,Clothing,Mens,3424,-176
+ORD119,2024-04-08,Clothing,Womens,4585,1403
+ORD120,2024-06-20,Grocery,Snacks,355,1217
+ORD121,2024-12-25,Grocery,Snacks,4904,-134
+ORD122,2024-08-01,Office Supplies,Writing,1938,32
+ORD123,2024-02-04,Clothing,Mens,2044,-92
+ORD124,2024-08-14,Electronics,Laptops,109,969
+ORD125,2024-04-10,Grocery,Dairy,2971,-90
+ORD126,2024-05-10,Grocery,Snacks,897,27
+ORD127,2024-09-13,Electronics,Phones,1115,-90
+ORD128,2024-01-05,Grocery,Dairy,1924,1293
+ORD129,2024-08-05,Office Supplies,Paper,4569,-167
+ORD130,2024-09-11,Clothing,Mens,3236,422
+ORD131,2024-12-24,Electronics,Phones,2293,1192
+ORD132,2024-10-09,Clothing,Womens,323,547
+ORD133,2024-07-25,Grocery,Dairy,4258,394
+ORD134,2024-01-15,Grocery,Snacks,4025,1377
+ORD135,2024-12-11,Electronics,Laptops,4884,224
+ORD136,2024-02-11,Office Supplies,Writing,4100,412
+ORD137,2024-06-27,Furniture,Tables,1733,1341
+ORD138,2024-03-03,Electronics,Laptops,2252,491
+ORD139,2024-12-17,Furniture,Tables,610,1105
+ORD140,2024-08-18,Furniture,Chairs,484,1143
+ORD141,2024-08-28,Office Supplies,Paper,504,1266
+ORD142,2024-02-21,Furniture,Chairs,4713,114
+ORD143,2024-04-05,Furniture,Tables,4671,676
+ORD144,2024-08-09,Office Supplies,Writing,2100,1200
+ORD145,2024-08-18,Furniture,Chairs,2856,1112
+ORD146,2024-08-24,Furniture,Tables,1768,1260
+ORD147,2024-05-22,Furniture,Chairs,1560,461
+ORD148,2024-06-19,Electronics,Phones,3736,76
+ORD149,2024-01-29,Electronics,Phones,2824,1405
+ORD150,2024-02-05,Electronics,Laptops,4909,1326
+ORD151,2024-01-13,Office Supplies,Writing,4278,423
+ORD152,2024-06-08,Grocery,Snacks,2148,315
+ORD153,2024-11-22,Furniture,Chairs,4246,1173
+ORD154,2024-07-05,Furniture,Chairs,4880,642
+ORD155,2024-08-30,Office Supplies,Paper,816,1269
+ORD156,2024-03-26,Furniture,Tables,4644,149
+ORD157,2024-10-10,Electronics,Laptops,4683,1430
+ORD158,2024-03-06,Grocery,Snacks,1923,1487
+ORD159,2024-06-18,Clothing,Mens,2181,622
+ORD160,2024-02-14,Furniture,Tables,3519,960
+ORD161,2024-03-02,Electronics,Laptops,1674,558
+ORD162,2024-05-13,Clothing,Mens,349,698
+ORD163,2024-10-10,Grocery,Snacks,773,42
+ORD164,2024-01-28,Clothing,Mens,4633,342
+ORD165,2024-04-17,Electronics,Laptops,2265,863
+ORD166,2024-02-13,Clothing,Womens,870,28
+ORD167,2024-12-05,Office Supplies,Writing,4062,347
+ORD168,2024-10-12,Clothing,Mens,4463,719
+ORD169,2024-11-26,Furniture,Chairs,2084,1046
+ORD170,2024-05-07,Furniture,Tables,1177,-195
+ORD171,2024-12-13,Office Supplies,Writing,335,1145
+ORD172,2024-08-18,Electronics,Phones,488,267
+ORD173,2024-07-08,Furniture,Tables,3137,-126
+ORD174,2024-08-12,Grocery,Dairy,4958,-197
+ORD175,2024-10-09,Furniture,Chairs,1948,445
+ORD176,2024-04-30,Furniture,Tables,4819,-83
+ORD177,2024-04-25,Electronics,Phones,2914,680
+ORD178,2024-08-20,Clothing,Mens,3474,1429
+ORD179,2024-09-15,Furniture,Chairs,3378,303
+ORD180,2024-12-24,Office Supplies,Paper,1352,746
+ORD181,2024-07-16,Clothing,Mens,4081,373
+ORD182,2024-05-16,Grocery,Snacks,4773,1264
+ORD183,2024-11-13,Electronics,Phones,2222,-7
+ORD184,2024-06-13,Grocery,Dairy,4630,646
+ORD185,2024-08-12,Clothing,Mens,2250,514
+ORD186,2024-11-02,Clothing,Mens,4959,1215
+ORD187,2024-08-21,Clothing,Womens,1429,849
+ORD188,2024-06-20,Grocery,Dairy,1458,1258
+ORD189,2024-05-31,Clothing,Womens,2582,-28
+ORD190,2024-11-10,Grocery,Snacks,4642,1123
+ORD191,2024-06-08,Clothing,Womens,2117,1468
+ORD192,2024-04-05,Office Supplies,Paper,1431,125
+ORD193,2024-08-20,Clothing,Mens,4444,1233
+ORD194,2024-06-28,Grocery,Snacks,4361,941
+ORD195,2024-04-22,Furniture,Chairs,1458,635
+ORD196,2024-11-13,Clothing,Womens,4737,523
+ORD197,2024-02-21,Furniture,Tables,4954,24
+ORD198,2024-09-24,Office Supplies,Paper,3277,331
+ORD199,2024-10-21,Electronics,Phones,2228,-88
